@@ -1,6 +1,6 @@
 <html>
   <head>
-    head
+    <title>head</title>
   </head>
   <body>
     body
