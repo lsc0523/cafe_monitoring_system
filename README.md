@@ -7,5 +7,5 @@
 <img src="/Image/Cafe_application_시스템구성도.jpg">
 
 <p><데이터 흐름도></p>
-<img src="/Image/readme_dataflow.jpg">
+<img src="/Image/data_flowchart.jpg">
 
