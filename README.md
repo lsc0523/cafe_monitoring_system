@@ -4,8 +4,8 @@
 
 
 <시스템 구성도>
-<html>
-  <body>
-    <img src="/Image/Cafe_application_시스템구성도.jpg">
-  </body>
-</html>
+<img src="/Image/Cafe_application_시스템구성도.jpg">
+
+<데이터 흐름도>
+<img src="/Image/dataflow.jpg">
+
