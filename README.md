@@ -13,7 +13,7 @@
 
 <p><시스템 구성도></p>
 <br><br>
-<img src="/Image/Cafe_application_시스템구성도.jpg">
+<img src="/Image/Cafe_application_system.jpg">
 <br><br><br>
 
 
