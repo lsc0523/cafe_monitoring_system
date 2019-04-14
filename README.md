@@ -12,11 +12,13 @@
 
 
 <p><시스템 구성도></p>
+<br><br>
 <img src="/Image/Cafe_application_시스템구성도.jpg">
 <br><br><br>
 
 
 
 <p><데이터 흐름도></p>
+<br><br>
 <img src="/Image/data_flowchart.jpg">
 
