@@ -15,14 +15,14 @@
 
 
 
-<b><p><시스템 구성도></p></b>
+<p><시스템 구성도></p>
 <br><br>
 <img src="/Image/Cafe_application_system.jpg">
 <br><br><br>
 
 
 
-<b><p><데이터 흐름도></p></b>
+<p><데이터 흐름도></p>
 <br><br>
 <img src="/Image/data_flowchart.jpg">
 
