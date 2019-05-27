@@ -17,14 +17,14 @@
 
 <b><p><시스템 구성도></p></b>
 <br><br>
-<img src="/Image/Cafe_application_system.jpg">
+<img src="/ReadME_Image/Cafe_application_system.jpg">
 <br><br><br>
 
 
 
 <b><p><데이터 흐름도></p></b>
 <br><br>
-<img src="/Image/data_flowchart.jpg">
+<img src="/ReadME_Image/data_flowchart.jpg">
 
 
 
