@@ -52,8 +52,16 @@ app.get('/req', function(req,res){
          /*for( var i =0;i<rows.length;i++){
                 console.log(rows[i].person_count + " / " +rows[i].total_seat);
         }*/
-        rows[0].dust_value=parseInt(rows[0].dust_value);
-          res.json({connect:100 ,person_num:rows[0].person_count , total_seat:rows[0].total_seat , gas:rows[0].dust_value})
+        //for (var i = rows.length-1; ;i--){
+        var i = rows.length-1;
+        var j = i;
+        /*while(1){
+            if(rows[j].person_num != 0) break;
+            else j--;
+        }*/
+            
+        rows[0].dust_value=parseInt(rows[i].dust_value);
+          res.json({connect:100 ,person_num:rows[i].person_count , total_seat:rows[i].total_seat , gas:rows[i].dust_value})
 
   });
 
