@@ -20,7 +20,7 @@
 <img src="/ReadME_Image/Cafe_application_system.jpg">
 <br><br><br>
 
-
+사용 서버 : Google Cloud Free tier
 
 <b><p><데이터 흐름도></p></b>
 <br><br>
