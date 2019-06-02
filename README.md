@@ -17,7 +17,7 @@
 
 <b><p><시스템 구성도></p></b>
 <br><br>
-<img src="/ReadME_Image/Cafe_application_system.jpg">
+<img src="/ReadME_Image/Cafe_application_system.png">
 <br><br><br>
 
 사용 서버 : Google Cloud Free tier
