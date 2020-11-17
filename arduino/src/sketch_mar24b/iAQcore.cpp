@@ -7,7 +7,7 @@
 #include <Arduino.h>
 #include <Wire.h>
 #include "iAQcore.h"
-
+// made a change
 
 // Chip constants
 #define IAQCORE_I2CADDR          0x5A  // 7-bit I2C slave address of the iAQ-Core

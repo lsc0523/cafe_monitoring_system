@@ -1,4 +1,4 @@
-ar express = require('express');
+var express = require('express');
 var app = express();
 
 mysql = require('mysql');
@@ -23,7 +23,7 @@ function insert_sensor(person_count,total_seat,temper,dust_value) {
   });
 }
 
-
+/* make change */
 
 /*
 app.get('/', function(req, res) {
